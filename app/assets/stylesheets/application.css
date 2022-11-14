@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+
+
+.h1, h1 {
+  font-size: 8 rem;
+  font-size: calc(1.375rem + 1.5vw);
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h2, h2 {
+  font-size: 8 rem;
+  font-size: calc(1.375rem + 1.5vw);
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container {
+    display: block;
+    text-align: center;
+}
